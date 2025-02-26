@@ -47,8 +47,8 @@ Mobile design
 ### Links
 
 
-- Solution URL: [Add solution URL here](https://github.com/rashed-mia/huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://huddle-landing-page-gamma-virid.vercel.app/)
+- Solution URL: [sorce code](https://github.com/rashed-mia/huddle-landing-page.git)
+- Live Site URL: [ live site URL](https://huddle-landing-page-gamma-virid.vercel.app/)
 
 ## My process
 ---
